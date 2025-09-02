@@ -11,6 +11,8 @@ public class CharacterSKill : MonoBehaviour
     public Camera mainCamera;
 
     public GameObject skillEffect;
+
+    public AudioSource skillAudio;
     void Start()
     {
        // Debug.Log("½ºÆù");
@@ -36,6 +38,10 @@ public class CharacterSKill : MonoBehaviour
 
     private void skillStart()
     {
+        if (skillAudio != null)
+        {
+            skillAudio.Play();
+        }
         skill1.SetActive(false);
         skill2.SetActive(false);
         //skillon.SetActive(false);
