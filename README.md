@@ -2,6 +2,10 @@
 **메이플스토리 IP 활용 신규 게임 기획 - 메쿡(Maple COOK)**
 
 ---
+**시연 영상**
+
+[![Video](https://img.youtube.com/vi/Jda-X0ziyTk/0.jpg)](https://www.youtube.com/watch?v=Jda-X0ziyTk)
+
 
 ## 1️⃣ 프로젝트 개요
 
